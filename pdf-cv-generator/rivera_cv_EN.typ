@@ -9,7 +9,7 @@
   pagecount: "true",
   date: "2025-08-18",
   contacts: (
-    (text: "LinkedIn", link: "https://www.linkedin.com/in/cnrivera/"),
+    (text: "LinkedIn", link: "https://www.linkedin.com/in/cnrivera/?locale=en_US"),
     (text: "christiannahuelrivera@gmail.com", link: "mailto:christiannahuelrivera@gmail.com"),
   ),
 )

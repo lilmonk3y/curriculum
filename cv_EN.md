@@ -9,10 +9,9 @@ Fluent English speaker. CEFR level: B2.
 
 [GitHub](https://github.com/lilmonk3y)
 
-[LinkedIn](https://www.linkedin.com/in/cnrivera/)
+[LinkedIn](https://www.linkedin.com/in/cnrivera/?locale=en_US)
 
 # About me
-
 
 I'm a web developer with a strong back-end background and a growing passion for front-end development. My main focus is building effective and adaptable software in agile, dynamic environments where changing requirements drive user value. My experience includes working at Fintech and Adtech companies. Proficiency in English has enabled me to collaborate seamlessly with teams in the United States and Israel.
 
