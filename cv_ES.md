@@ -4,7 +4,7 @@
 
 [Profile picture](./media/profile.png)
 
-Desarrollador de software.
+Desarrollador de software Back-End.
 Hablo Ingles. Nivel B2.
 
 [GitHub](https://github.com/lilmonk3y)
@@ -13,58 +13,39 @@ Hablo Ingles. Nivel B2.
 
 # Sobre mí
 
-Soy desarrollador de software web con experiencia en back-end y entusiasta front-end. Estoy acostumbrado a trabajar en entornos ágiles y dinámicos donde los requerimientos pueden cambiar para sumar el mayor valor para los usuarios de los productos en los que coopero. 
+Soy un desarrollador web con una sólida experiencia en back-end y una creciente pasión por el desarrollo front-end. Mi objetivo principal es construir software eficiente y correcto en entornos ágiles y dinámicos donde los requisitos cambiantes son el norte para darle valor para el usuario. Mi experiencia incluye trabajo en empresas Fintech y Adtech, como también colaborador freelance. Gracias a mi expeciencia con el inglés me permitió colaborar sin problemas con equipos en Estados Unidos e Israel.
 
- La mayor cantidad de desafíos que enfrenté profesionalmente fueron en arquitecturas web back-end donde trabajé con una gama muy amplia de lenguajes de programación y frameworks, donde los principales fueron: Java 8+, PHP con Laravel y también JavaScript con Node. Sobre el diseño de arquitecturas trabajé con Micro-servicios pero también en monolitos y sobre el almacenamiento desarrollé productos utilizando SQL, Key-Value store, Couchbase y Elasticsearch. Creo que hay que diseñar sistemas que sean facilmente mantenibles y que respondan correctamente a las necesidades de nuestros usuarios.
-
-Me encuentro estudiando la carrera de Licenciatura en Ciencias de la Computación de la Universidad de Buenos Aires y también estudiando Ingles, donde tengo un nivel intermedio avanzado (CEFR B2); estudié el lenguaje por 12 años en mi formación primaria y secundaria. Trabajé con equipos en Estados unidos e Israel donde toda comunicación es en este idioma.
-
-En el último tiempo me encuentro tomando nuevos desafíos en proyectos front-end. Mi norte es tener herramientas para poder aportar en desarrollos desde el diseño a la implementación teniendo en cuenta la experiencia de uso y un gran rendimiento para que los usuarios disfruten de las plataformas.
-
-Me apasiona mi carrera universitaria por lo que hice ayudantías en mi facultad, tales como:
-- Expositor en Tecnópolis 2016 - Stand CONICET.
-- Expositor en Semana de la computación 2016 - Computación en Ciudad Universitaria.
-- Expositor Noche de los museos 2017 - Stand Computación en Ciudad Universitaria.
+Recientemente, comencé a asumir nuevos desafíos en proyectos front-end para expandir mi experiencia más allá del desarrollo back-end. Mi objetivo es convertirme en un desarrollador versátil, capaz de contribuir a proyectos desde el diseño hasta la implementación, cumpliendo con los plazos definidos y aportando mis ideas al producto.
 
 # Habilidades
 
 ## Competente
 
-- Java (+4 años de experiencia)
-- Python (+4 años)
-- JavaScript (+3 años)
-- SQL (+6 años. MySQL, Redshift.)
-- No-SQL (2+ años. ElasticSearch, Key-Value.)
-- Arquitecturas en la nube (+6 años. Microservicios, Serverless.)
+Java, Python, JavaScript, SQL (MySQL, Redshift), No-SQL (ElasticSearch, Key-Value, Couchbase), Arquitecturas en la nube (Microservicios, Serverless, Monolito). 
 
 ## Utilizado
 
-- React
-- C++
-- PHP 8
-- TypeScript
+React, C++, PHP 8, TypeScript
 
 # Experiencia
 
 ## Freelance software developer
 
 Tiempo completo.
-Desde Enero 2025 - Actualidad.
+Desde Octubre 2024 - Actualidad.
 
-Desarrollo de herramientas para desarrolladores para terminal (CLI) en Linux.
-Diseño, planificación y desarrollo de aplicaciones web de punta-a-punta. Las principales tecnologías que usé son Python con Flask + Js nativo y Js con React en menor medida.
+- Desarrollé e implementé una aplicación full-stack de gestión de tótems desde cero hasta producción en 6 meses, habilitando operaciones remotas de guardias de seguridad para la gestión de edificios. Cliente: Securion Global (https://securionglobal.com/).
+- Lideré un equipo de 2 desarrolladores y 1 diseñador para entregar la aplicación antes mencionada a tiempo y dentro del presupuesto.
+- Implementé un chatbot de voz con acceso a recursos del cliente para respuestas útiles al usuario. Utilicé la API de OpenAI.
+- Desarrollé herramientas de línea de comandos (CLI) para desarrolladores en Linux.
 
 ## Innovid - Back-end/Full-stack
 
 Tiempo completo.
 Desde Junio 2021 - Hasta Marzo 2023.
 
-Desarrollo y mantenimiento de nuevas funcionalidades desde el diseño a la implementación; que implica modificar nustras aplicaciones en el back-end como en el front-end. Me encargo de llevar reuniones con los equipos de diseño y producto para comprender las necesidades de nuestros usuarios y llevar a la realidad los requerimientos.
-Hice realidad proyectos en aplicaciones con muy diferentes stacks tecnológicos, entre ellos:
-- Java 8 + Play framework
-- PHP 7 + Laravel
-- JavaScript ES6 + NodeJS + React 16 + Redux
-- TypeScript ES7 + NodeJS + React 16 + Redux
+- Escalé un proceso crítico en el flujo de datos de Adserving migrando su framework, lo que aumentó los RPM en un 40%.
+- Desarrollé nuevas funcionalidades end-to-end: diseño técnico, soluciones de procesos back-end e interfaces front-end. Fui responsable de mantener reuniones con los equipos de diseño y producto para entender las necesidades de nuestros usuarios y dar vida a sus requerimientos.
 
 ## Mercado libre - Back-end
 
@@ -74,7 +55,9 @@ Tiempo completo.
 
 Desde Enero 2020 - Hasta Junio 2021.
 
-Desarrollo en diversas iniciativas en el departamento de IT Finanzas. Todas las aplicaciones con las que trabajo son Java 8 y nos manejamos en una arquitectura microservicios. Es un entorno muy dinámico y en continuo crecimiento.
+- Rediseñé e implementé dos proyectos en arquitectura de microservicios que redujeron los tickets de problemas del proyecto en un 30% y aumentaron el SLA del 95% al 99.999%.
+- Gestioné rollouts con media docena de equipos.
+- Participé en la migración de datos de usuario para estos dos procesos, que tenían miles de millones de registros en las bases de datos.
 
 ### Junior Software engineer
 
@@ -88,15 +71,6 @@ Desde Noviembre 2017 - Hasta Julio 2018.
 
 ## Universidad de Buenos Aires
 
-Desde 2015 - Presente.
+Desde 2015 - Hasta 2024.
 
-La carrera cuenta con un plan de estudios compuesto por 17 materias obligatorias, 4 electivas y la tesis de licenciatura. Las materias que aprobé son:
-
-- Álgebra 1 - Final con 7
-- Análisis matemático 2 - Trabajos prácticos aprobados.
-- Organización del computador 1 - Final con 10
-- Algoritmos y estructuras de datos 1 - Final con 8
-- Algoritmos y estructuras de datos 2 - Final con 4
-- Organización del computador 2 - Final con 9
-- Sistemas operativos - Prácticos
-- Algoritmos y estructuras de datos 3 - Prácticos
+La carrera me aportó un sustento muy firme en Matemática como en trabajar y generar abstracciones complejas. Me hizo desarrollar mis aptitudes por la búsqueda y documentación de conocimiento profundo. También me hizo prácticar la conceptración y dedicación por largas horas; como también la resiliencia a cuando no se obtienen resultados esperados. Gracias a ella me llevo excelentes vículos y exaustivos conocimientos sobre el campo de estúdio de la Computación.
